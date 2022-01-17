@@ -36,5 +36,10 @@ main > section button {
     line-height: 20px;
     padding: 6px 9px;
     text-transform: none;
+}
 
+#detalhes-container {
+    font-weight: bold;
+    list-style-type: none;
+    width: 90%;
 }
